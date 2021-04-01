@@ -2,7 +2,7 @@
 
 ## Text2Image
 
-**People Dancing**
+**Query Caption: People Dancing**
 ![text2img_1](./results/text2img_1.png)
 ***
 **Query Caption: A person surfing**
@@ -37,5 +37,5 @@
 ![im2im_4q](./results/im2im_4q.png)
 ![im2im_4r](./results/im2im_4r.png)
 ***
-![im2im_5q](./results/im2im_2q.png)
-![im2im_5r](./results/im2im_2r.png)
+![im2im_5q](./results/im2im_5q.png)
+![im2im_5r](./results/im2im_5r.png)
